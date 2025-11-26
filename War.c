@@ -9,7 +9,7 @@ struct Territorio {
 };
 
 // criando vetor estático.
-#define MAX_TERRITORIO 5
+char Territorio[5];
 
 int main() {
 //Declarar variável do tipo struct.
